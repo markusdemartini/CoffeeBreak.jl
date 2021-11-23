@@ -2,7 +2,11 @@ module CoffeeBreak
 
 export foo
 
-# Write your package code here.
+"""
+    foo()
+    
+test docs
+"""
 function foo()
     return 1.2
 end

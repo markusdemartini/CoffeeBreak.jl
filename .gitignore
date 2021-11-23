@@ -4,3 +4,5 @@
 
 *.code-workspace
 *.DS_Store
+
+docs/build/
