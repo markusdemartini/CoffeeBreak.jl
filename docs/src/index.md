@@ -12,7 +12,3 @@ Documentation for [CoffeeBreak](https://github.com/markusdemartini/CoffeeBreak.j
 ```@autodocs
 Modules = [CoffeeBreak]
 ```
-
-```@docs
-foo()
-```
