@@ -3,6 +3,9 @@ uuid = "3dab79e2-6a19-4f47-9d09-aeabda5c21fb"
 authors = ["Markus Simon DeMartini <mksdemartini@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+
 [compat]
 julia = "1.6"
 

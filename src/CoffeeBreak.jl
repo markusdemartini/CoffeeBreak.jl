@@ -1,14 +1,15 @@
 module CoffeeBreak
 
-export foo
+using CSV
+using DataFrames
+using Plots
+using Stipple, StippleUI
 
-"""
-    foo()
-    
-test docs
-"""
-function foo()
-    return 1.2
-end
+include("app.jl")
+include("csv.jl")
+include("dataframes.jl")
+include("plots.jl")
+
+
 
 end
